@@ -3,4 +3,5 @@ fun main() {
     val b = 4
     val c = a + b
     println(c)
+    println("Число: $c")
 }
